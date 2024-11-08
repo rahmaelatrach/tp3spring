@@ -1,4 +1,4 @@
-package com.example.app_tp3;
+package com.tp3.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
